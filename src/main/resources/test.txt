@@ -10,5 +10,5 @@ labeler
 
 
 
-Should be size S
+Should be Size:S
 Is it
