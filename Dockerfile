@@ -4,6 +4,7 @@ WORKDIR /build
 COPY --chmod=0755 mvnw mvnw
 COPY .mvn/ .mvn/
 
+
 FROM base as test
 WORKDIR /build
 COPY ./src src/
